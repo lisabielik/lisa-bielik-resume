@@ -1,31 +1,31 @@
   [[main]]
-  name = "Home"
+  name = "About"
   identifier = "home"
   weight = 100
-  url = "/"
-
-  [[main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
+  url = "/about/"
 
   [[main]]
   name = "Portfolio"
-  weight = 300
+  weight = 200
   identifier = "portfolio"
   url = "/portfolio/"
 
   [[main]]
-  name = "About"
-  weight = 400
-  identifier = "about"
-  url = "/about/"
+  name = "Accomplishments"
+  weight = 300
+  identifier = "accomplishments"
 
   [[main]]
-  name = "Accomplishments"
+  name = "Posts"
+  weight = 400
+  identifier = "posts"
+  url = "/post/"
+
+  [[main]]
+  name = "Contact"
   weight = 500
-  identifier = "accomplishments"
+  identifier = "contact"
+  url = "/contact/"
 
   [[main]]
   name = "Awards"
@@ -40,12 +40,6 @@
   identifier = "certifications"
   url = "/certifications/"
   parent = "accomplishments"
-
-  [[main]]
-  name = "Contact"
-  weight = 600
-  identifier = "contact"
-  url = "/contact/"
 
   [[footer]]
   name = "imprint"
