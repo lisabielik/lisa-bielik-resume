@@ -2,7 +2,6 @@
 
 Information in accordance with the applicable law
 
-Jane Doe\
-Anatole Street 10\
-2016 GoHugo\
-Germany
+Lisa Bielik\
+Lvario8483@gmail.com\
+Ohio, USA
