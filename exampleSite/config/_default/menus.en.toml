@@ -5,7 +5,7 @@
   url = "/about/"
 
   [[main]]
-  name = "Portfolio"
+  name = "Resume"
   weight = 200
   identifier = "portfolio"
   url = "/portfolio/"

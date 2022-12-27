@@ -1,8 +1,8 @@
 portfolioitems:
   # portfolio category
-  - title: Coding Projects
+  - title: Experience
     portfolioitem:
-      - name: Project 1
+      - name: Documentation Lead, Hyperproof
         image: '/images/portfolio/code.jpg'
         link: https://gohugo.io/
         linktext: 'Visit project website'
@@ -10,13 +10,9 @@ portfolioitems:
         tags:
           - Tag 1
           - Tag 2
-        status: 'Finished'
-        start: '2020'
-        end: '2021'
-        authors:
-          - lxndrblz
-          - alexanderdavide
-      - name: Project 2
+        start: '2021'
+        end: 'Present'
+      - name: Senior Technical Writer, eyeo GmbH
         image: '/images/portfolio/code.jpg'
         link: https://gohugo.io/
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
@@ -24,33 +20,30 @@ portfolioitems:
         tags:
           - Tag 1
           - Tag 2
-      - name: Project 3
+        start: '2015'
+        end: '2020'
+      - name: Technical Writer, Turning Technologies
         link: https://gohugo.io/
         status: 'Finished'
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
         tags:
           - Tag 1
           - Tag 2
+        start: '2012'
+        end: '2015'
   # portfolio category
-  - title: Research
+  - title: Education
     portfolioitem:
-      - name: Project 1
+      - name: Master of Arts, History - 2007 Youngstown State University
         image: '/images/portfolio/code.jpg'
-        description: 'This project does not have a link attribute'
+        description: Published thesis
         tags:
           - Tag 1
           - Tag 2
-      - name: Project 2
+      - name: Bachelor of Arts, History - 2005 Youngstown State University
         image: '/images/portfolio/code.jpg'
         link: https://gohugo.io/
-        description: 'You can click on [**this link**](#codingprojects) to scroll to my Coding Projects portfolio'
-        tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'A description'
+        description: Minor in German
         tags:
           - Tag 1
           - Tag 2
