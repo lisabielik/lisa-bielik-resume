@@ -1,6 +1,6 @@
 portfolioitems:
   # portfolio category
-  - title: Experience
+  - title: Portfolio
     portfolioitem:
       - name: Documentation Lead, Hyperproof
         image: '/images/portfolio/code.jpg'
