@@ -16,4 +16,3 @@ With over 10 years of experience, I have produced everything from 300-plus page 
 I'm an avid reader (need a horror/thriller recommendation? let me know!) and coffee connoisseur who likes to dabble in web building. I've been focusing on building with Hugo and Git. I'm not an expert, but I enjoy learning!
 
 I live in Northeast Ohio with my husband, son, two dogs (pittie and golden), and cat.
-
