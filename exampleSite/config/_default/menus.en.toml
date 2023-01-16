@@ -5,39 +5,33 @@
   url = "/"
 
   [[main]]
-  name = "About"
-  weight = 200
-  identifier = "about"
-  url = "/about/"
-
-  [[main]]
   name = "Resumé"
-  weight = 300
+  weight = 200
   identifier = "resume"
   url = "/resume/"
 
   [[main]]
   name = "Portfolio"
-  weight = 400
+  weight = 300
   identifier = "portfolio"
   url = "/portfolio/"
 
   [[main]]
   name = "Technical documentation"
-  weight = 510
+  weight = 410
   identifier = "technical-documentation"
   url = "/technical-documentation/"
   parent = "portfolio"  
 
   [[main]]
   name = "Help centers"
-  weight = 520
+  weight = 420
   identifier = "help-centers"
   url = "/help-centers/"
   parent = "portfolio"
 
   [[main]]
   name = "Contact"
-  weight = 600
+  weight = 500
   identifier = "contact"
   url = "/contact/"
