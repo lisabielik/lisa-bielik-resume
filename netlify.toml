@@ -1,12 +1,12 @@
 [build]
-  publish = "content/public"
-  command = "hugo version && hugo"
+  publish = "exampleSite/public"
+  command = "cd exampleSite && hugo --gc --minify --themesDir ../.."
   
 [build.environment]
   HUGO_VERSION = "0.69.0"
   HUGO_ENV = "production"
   HUGO_THEME = "repo"
-  HUGO_BASEURL = "https://lisa-bielik.netlify.app/"
+  HUGO_BASEURL = "https://lisa-bielik.netlify.app"
 
 [[headers]]
   for = "/*"
