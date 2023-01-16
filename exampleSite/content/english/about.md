@@ -2,8 +2,6 @@
 title = "Hi there!"
 description = "Lisa, in her own words."
 date = "2019-02-28"
-identifier = "home"
-author = "Hugo Authors"
 +++
 
 ## My philosophy
