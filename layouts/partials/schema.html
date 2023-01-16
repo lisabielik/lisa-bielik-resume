@@ -4,7 +4,7 @@
       "@context": "http://schema.org",
       "@type": "WebSite",
       "name": {{ .Site.Title | jsonify | safeJS }},
-      "url": "{{ .Site.BaseURL | string ) "localhost" }}",
+      "url": "{{ .Site.BaseURL }}",
       "description": "{{ .Site.Params.description }}",
       "thumbnailUrl": "{{ .Site.Params.Logo | absURL }}",
       "license": "{{ .Site.Params.Copyright }}"
