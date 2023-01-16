@@ -1,25 +1,19 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "Lisa, in her own words."
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## My philosophy
 
-Hugo makes use of a variety of open source projects including:
+Technical documentation should be engaging and relatable—and as concise as possible. Gone are the days where technical documentation has to be formal and bland. I believe people learn better when the material they're reading is written in plain English. My approach to writing is simple—collect information, test as I write, and consult subject matter experts and/or product managers on all reviews. I'm also a staunch believer in working together with other areas of the business to ensure that all technical materials fully and accurately represent the company's branding and mission.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+With over 10 years of experience, I have produced everything from 300-plus page user manuals, to custom-built help centers, to technical marketing materials.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## A little about me
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+I'm an avid reader (need a horror/thriller recommendation? let me know!) and coffee connoisseur who likes to dabble in web building. I've been focusing on building with Hugo and Git. I'm not an expert, but I enjoy learning!
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+I live in Northeast Ohio with my husband, son, two dogs (pittie and golden), and cat.
