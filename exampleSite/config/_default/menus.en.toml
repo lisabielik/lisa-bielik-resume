@@ -5,9 +5,9 @@
   url = "/about/"
 
   [[main]]
-  name = "Resume"
+  name = "Resumé"
   weight = 200
-  identifier = "resume"
+  identifier = "resumé"
   url = "/resume/"
 
   [[main]]
@@ -28,7 +28,7 @@
   url = "/contact/"
 
   [[main]]
-  name = "User manuals"
+  name = "Manuals and other documentation"
   weight = 510
   identifier = "manuals"
   url = "/user-manuals/"

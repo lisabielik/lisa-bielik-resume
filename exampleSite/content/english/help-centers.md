@@ -3,7 +3,6 @@ title = "Help centers"
 description = "Hugo Certifications"
 date = "2022-04-10"
 aliases = ["help-center"]
-author = "Hugo Authors"
 +++
 
 ## 3 Best Hugo Courses, Training, Classes & Tutorials Online
