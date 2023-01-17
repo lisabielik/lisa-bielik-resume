@@ -5,6 +5,8 @@ author = "Hugo Authors"
 
 # Hi there!
 
+I'm so glad you're here.
+
 ## My philosophy
 
 Technical documentation should be engaging and relatable—and as concise as possible. Gone are the days where technical documentation has to be formal and bland. I believe people learn better when the material they're reading is written in plain English. My approach to writing is simple—collect information, test as I write, and consult subject matter experts and/or product managers on all reviews. I'm also a staunch believer in working together with other areas of the business to ensure that all technical materials fully and accurately represent the company's branding and mission.
