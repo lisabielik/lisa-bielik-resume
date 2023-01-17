@@ -1,28 +1,18 @@
 +++
+title = "Hi there!"
 author = "Hugo Authors"
 +++
 
+## My philosophy
 
-5eryttyftyftyftyftyftyftyfty
+Technical documentation should be engaging and relatable—and as concise as possible. Gone are the days where technical documentation has to be formal and bland. I believe people learn better when the material they're reading is written in plain English. My approach to writing is simple—collect information, test as I write, and consult subject matter experts and/or product managers on all reviews. I'm also a staunch believer in working together with other areas of the business to ensure that all technical materials fully and accurately represent the company's branding and mission.
 
-<!--
-This file is left intentionally empty by default to be backwards compatible with the initial theme setup.
+With over 10 years of experience, I have produced everything from 300-plus page user manuals, to custom-built help centers, to technical marketing materials.
 
-Although the theme has advanced a little bit and it now allows to specify the content on the main page (even if the list of posts/articles is not intended).
-This can be:
-- with the list of posts/articles (default: `mainSections = ["post"]) or
-- without the list of posts/articles (by setting `mainSections = [""]`)
+## A little about me
 
-Markdown supported, ie:
+I'm an avid reader (need a horror/thriller recommendation? let me know!) and coffee connoisseur who likes to dabble in web building. I've been focusing on building with Hugo and Git. I'm not an expert, but I enjoy learning!
 
-```
-# Welcome
+I live in Northeast Ohio with my husband, son, two dogs (pittie and golden), and cat.
 
-- Hugo :rocket:
-- Hugo theme :rocket:
 
-Don't forget to check the README.md file!
-```
-
-Remember that you can also specify a section header for the posts below by configuring the `mainSectionsTitle` parameter in the front matter of this file.
--->
