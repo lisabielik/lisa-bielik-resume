@@ -6,15 +6,4 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Resumé</title>
-  </head>
-  <body>
-    <iframe src="https://drive.google.com/file/d/1pKZF8TlkjuldCgyg204McZcgUA6Q6Zib/view?usp=sharing" width="1000" height="1000">
-    </iframe>
-  </body>
-</html>
-
-
+<iframe src="https://drive.google.com/file/d/1pKZF8TlkjuldCgyg204McZcgUA6Q6Zib/view?usp=sharing" width="1000" height="1000"></iframe>
