@@ -5,9 +5,9 @@ date = "2022-04-10"
 aliases = ["technical-documentation"]
 +++
 
-I've created many different types of technical documentation—everything from traditional user guides to API/SDK documentation to training guides.
+I've created many different types of technical documentation over the years—everything from traditional user guides to API/SDK documentation to training guides.
 
-Below are some examples of documentation I've created over the years. 
+Below are some of those docs. 
 
 - [Traditional user guide example](https://drive.google.com/file/d/0B0V60fOpLgWkNFFuNS1zSk40RDA/view?usp=sharing&resourcekey=0-ex7lF1UqTbHhb7RwLz9_CA)
 
