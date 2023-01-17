@@ -7,14 +7,16 @@ aliases = ["technical-documentation"]
 
 I've created many different types of technical documentation—everything from traditional user guides to API/SDK documentation to training guides.
 
-[Traditional user guide example](https://drive.google.com/file/d/0B0V60fOpLgWkNFFuNS1zSk40RDA/view?usp=sharing&resourcekey=0-ex7lF1UqTbHhb7RwLz9_CA)
+Below are some examples of documentation I've created over the years. 
 
-Training sample
+- [Traditional user guide example](https://drive.google.com/file/d/0B0V60fOpLgWkNFFuNS1zSk40RDA/view?usp=sharing&resourcekey=0-ex7lF1UqTbHhb7RwLz9_CA)
 
-Technical document one
+- [Training sample](https://drive.google.com/file/d/0B0V60fOpLgWkQnpiNlZTYXJBSnM/view?usp=sharing&resourcekey=0-nhRfShV2X7ilUC1NF8kavA)
 
-Technical document two
+- [Technical document one](https://drive.google.com/file/d/1vIeMGL6rTJwh7BrXQvoYwzJ7lSVJBs6o/view?usp=sharing)
 
-Technical document three
+- [Technical document two](https://drive.google.com/file/d/0B0V60fOpLgWkSkhxMUJLdGJERGc/view?usp=sharing&resourcekey=0-yqv02oThRNwYcPLPQxvmqw)
+
+- [Technical document three](https://drive.google.com/file/d/0B0V60fOpLgWkR1ljYjBnZmQ4QXc/view?usp=sharing&resourcekey=0-I52NehcfKNJt8j4J13Xigg)
 
 
