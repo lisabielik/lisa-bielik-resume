@@ -1,7 +1,9 @@
 +++
-title = "Hi there!"
+title = "Home"
 author = "Hugo Authors"
 +++
+
+# Hi there!
 
 ## My philosophy
 

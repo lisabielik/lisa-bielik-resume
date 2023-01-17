@@ -6,4 +6,13 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-<embed src="/content/english/Bielik-2023-Resume.pdf" width="700" height="375" type="application/pdf">
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Resumé</title>
+  </head>
+  <body>
+    <iframe src="/content/english/Bielik-2023-Resume.pdf" width="500%" height="500%">
+    </iframe>
+  </body>
+</html>
