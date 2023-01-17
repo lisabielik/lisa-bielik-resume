@@ -6,4 +6,4 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-<iframe src="https://drive.google.com/file/d/1pKZF8TlkjuldCgyg204McZcgUA6Q6Zib/view?usp=sharing" width="1000" height="1000"></iframe>
+<iframe src="/Bielik-2023-Resume.pdf" width="1000" height="1000"></iframe>
