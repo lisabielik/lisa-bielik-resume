@@ -12,7 +12,7 @@ author = "Hugo Authors"
     <title>Resumé</title>
   </head>
   <body>
-    <iframe src="/content/english/Bielik-2023-Resume.pdf" width="500%" height="500%">
+    <iframe src="/content/english/Bielik-2023-Resume.pdf" width="100%" height="100%">
     </iframe>
   </body>
 </html>
