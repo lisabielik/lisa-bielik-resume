@@ -12,7 +12,7 @@ author = "Hugo Authors"
     <title>Resumé</title>
   </head>
   <body>
-    <iframe src="https://drive.google.com/file/d/1pKZF8TlkjuldCgyg204McZcgUA6Q6Zib/view?usp=sharing" width="100" height="100">
+    <iframe src="https://drive.google.com/file/d/1pKZF8TlkjuldCgyg204McZcgUA6Q6Zib/view?usp=sharing" width="1000" height="1000">
     </iframe>
   </body>
 </html>
