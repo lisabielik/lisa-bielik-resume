@@ -9,7 +9,8 @@ I've created many different types of technical documentation over the years—ev
 
 Below are some of those docs. 
 
-- [Traditional user guide example](https://drive.google.com/file/d/0B0V60fOpLgWkNFFuNS1zSk40RDA/view?usp=sharing&resourcekey=0-ex7lF1UqTbHhb7RwLz9_CA)
+<p><a href="https://drive.google.com/file/d/0B0V60fOpLgWkNFFuNS1zSk40RDA/view?usp=sharing&resourcekey=0-ex7lF1UqTbHhb7RwLz9_CA" target="_blank" rel="noopener noreferrer">Traditional user guide</a>.</p>
+
 
 - [Training sample](https://drive.google.com/file/d/0B0V60fOpLgWkQnpiNlZTYXJBSnM/view?usp=sharing&resourcekey=0-nhRfShV2X7ilUC1NF8kavA)
 
