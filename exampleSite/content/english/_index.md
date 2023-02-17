@@ -3,7 +3,7 @@ title = "Home"
 author = "Hugo Authors"
 +++
 
-# Hi There!
+# Hi, there!
 
 I'm so glad you're here.
 
