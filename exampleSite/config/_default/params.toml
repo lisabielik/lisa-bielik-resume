@@ -15,7 +15,7 @@ images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/lisa-bielik"
-#contactFormReCaptcha = "6LclQY4kAAAAAEpmaEJ-GF-mqyVjm_WqudoXqVCg"
+#contactFormReCaptcha = "6LclQY4kAAAAACTfQ0w4dboX5AaK_AN2ucO0FaDX"
 # Google Fonts
 #googleFonts = ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
 # Google Site Verify
