@@ -29,9 +29,3 @@
   identifier = "help-centers"
   url = "/help-centers/"
   parent = "portfolio"
-
-  [[main]]
-  name = "Contact"
-  weight = 500
-  identifier = "contact"
-  url = "/contact/"
