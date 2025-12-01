@@ -9,14 +9,12 @@ I'm so glad you're here.
 
 ## My philosophy
 
-Technical documentation should be engaging and relatable—and as concise as possible. Gone are the days where technical documentation has to be formal and bland. I believe people learn better when the material they're reading is written in plain English. My approach to writing is simple—collect information, test as I write, and consult subject matter experts and/or product managers on all reviews. I'm also a staunch believer in working together with other areas of the business to ensure that all technical materials fully and accurately represent the company's branding and mission.
+Technical documentation should be clear, engaging, and approachable—never dense or intimidating. I believe people learn best when content is written in plain, human language, supported by thoughtful structure and precise accuracy. My process is straightforward: gather information, test the product as I write, and collaborate closely with engineers, product managers, and other subject-matter experts to ensure every detail is correct. I also partner across the business to ensure all technical materials reflect the company’s brand, voice, and mission.
 
-With over 10 years of experience, I have produced everything from 300-plus page user manuals, to custom-built help centers, to technical marketing materials.
+With more than 15 years of experience, I’ve produced everything from 300-page technical manuals to full-scale help centers, API documentation, and customer-facing technical marketing content.
 
 ## A little about me
 
-I'm an avid reader (need a horror/thriller recommendation? let me know!) and coffee connoisseur who likes to dabble in web building. I've been focusing on building with Hugo and Git. I'm not an expert, but I enjoy learning!
+I’m an avid reader (always happy to swap horror/thriller recommendations), a dedicated coffee enthusiast, and a hobbyist web builder exploring static site generation with Hugo and Git. I’m always learning and love diving into new tools and technologies.
 
-I live in Northeast Ohio with my husband, son, two dogs (pittie and golden), and cat.
-
-
+I live in Northeast Ohio with my husband, son, two dogs, and cat.
