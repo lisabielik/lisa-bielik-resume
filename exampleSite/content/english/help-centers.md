@@ -5,14 +5,18 @@ date = "2022-04-10"
 aliases = ["help-centers"]
 +++
 
-I've worked on three major help centers so far. The examples below do not include knowledge bases I've worked on.
+I’ve architected and built three major help centers throughout my career, each one created from the ground up.
 
-- [Turning Technologies](https://help.turningtechnologies.com/) - Built with Madcap Flare (2011 - 2015)
+>**Note**: I'm in the process of building my current organization's new API portal. It's not yet public.
 
-  >**Note**: Documentation has been updated in the years since I created this help center. However, the structure of both the help center and the documentation remains the same as when I originally created it.
- 
+- [Hyperproof](https://docs.hyperproof.io) - Built with Paligo (2021 - current)
+
+  >**Note**: The current version is built using Paligo. The original help center was built with Markdown, Git, and Hugo.
+
 - [Adblock Plus](https://help.adblockplus.org/hc/en-us) - Built with Markdown, Git (2016 - 2020)
 
   >**Note**: Since I originally created the help center, it's been transferred to Zendesk. However, many of the articles I wrote, as well as other elements I implemented on the site, remains the same.
 
-- [Hyperproof](https://docs.hyperproof.io) - Built with Markdown, Git, Hugo (2021 - current)
+- [Turning Technologies](https://help.turningtechnologies.com/) - Built with Madcap Flare (2011 - 2015)
+
+  >**Note**: This help center has changed drastically over the last 10 years. Echo is now the parent company of Turning Technologies.
