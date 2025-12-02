@@ -5,18 +5,24 @@ date = "2022-04-10"
 aliases = ["technical-documentation"]
 +++
 
-I've created many different types of technical documentation over the years—everything from traditional user guides to API/SDK documentation to training guides.
-
-Below are some of those docs. 
+I've created many different types of technical documentation over the years. Below are some samples, including some "one-off" guides. 
 
 <ul>
   <li><a href="https://drive.google.com/file/d/0B0V60fOpLgWkNFFuNS1zSk40RDA/view?usp=sharing&resourcekey=0-ex7lF1UqTbHhb7RwLz9_CA" target="_blank" rel="noopener noreferrer">Traditional user guide</a></li>
 
   <li><a href="https://drive.google.com/file/d/0B0V60fOpLgWkQnpiNlZTYXJBSnM/view?usp=sharing&resourcekey=0-nhRfShV2X7ilUC1NF8kavA" target="_blank" rel="noopener noreferrer">Training sample</a></li>
 
+  <li><a href="https://docs.hyperproof.io/admin/en/best-practices/best-practice-audit-to-comops" target="_blank" rel="noopener noreferrer">Best practice guide</a></li>
+
   <li><a href="https://drive.google.com/file/d/1vIeMGL6rTJwh7BrXQvoYwzJ7lSVJBs6o/view?usp=sharing" target="_blank" rel="noopener noreferrer">Technical document one</a></li>
 
-  <li><a href="https://drive.google.com/file/d/0B0V60fOpLgWkSkhxMUJLdGJERGc/view?usp=sharing&resourcekey=0-yqv02oThRNwYcPLPQxvmqw" target="_blank" rel="noopener noreferrer">Technical document two</a></li>
+  <li><a href="https://drive.google.com/file/d/0B0V60fOpLgWkR1ljYjBnZmQ4QXc/view?usp=sharing&resourcekey=0-I52NehcfKNJt8j4J13Xigg" target="_blank" rel="noopener noreferrer">Technical document two</a></li>
 
-  <li><a href="https://drive.google.com/file/d/0B0V60fOpLgWkR1ljYjBnZmQ4QXc/view?usp=sharing&resourcekey=0-I52NehcfKNJt8j4J13Xigg" target="_blank" rel="noopener noreferrer">Technical document three</a></li>
+  <li><a href="https://docs.hyperproof.io/admin/en/authentication-and-security/enabling-single-sign-on-with-okta-gov" target="_blank" rel="noopener noreferrer">Technical document three</a></li>
+
+  <li><a href="https://docs.hyperproof.io/admin/en/work-items-10231/requests-overview/assigning-a-request" target="_blank" rel="noopener noreferrer">Standard operating procedure article one</a></li>
+
+  <li><a href="https://docs.hyperproof.io/admin/en/risk-register-overview/linking-a-task-to-a-risk" target="_blank" rel="noopener noreferrer">Standard operating procedure article two</a></li>
 </ul>
+
+
