@@ -9,7 +9,9 @@ I've created many different types of technical documentation over the years. Bel
 
 **Help Center**
 
-- [Hyperproof](https://docs.hyperproof.io) - Built with Paligo (2023 - current)
+<ul>
+  <li><a href="https://docs.hyperproof.io" target="_blank" rel="noopener noreferrer">Hyperproof Help Center</a></li>
+</ul>
 
   >**Note**: The current version is built using Paligo. The original help center (2021 - 2023) was built with Markdown, Git, and Hugo.
 
@@ -31,6 +33,10 @@ I've created many different types of technical documentation over the years. Bel
   <li><a href="https://docs.hyperproof.io/admin/en/work-items-10231/requests-overview/assigning-a-request" target="_blank" rel="noopener noreferrer">Standard operating procedure article one</a></li>
 
   <li><a href="https://docs.hyperproof.io/admin/en/risk-register-overview/linking-a-task-to-a-risk" target="_blank" rel="noopener noreferrer">Standard operating procedure article two</a></li>
+
+  <li><a href="https://docs.hyperproof.io/admin/en/audits-overview/creating-an-audit-and-importing-a-request-list" target="_blank" rel="noopener noreferrer">Standard operating procedure article three</a></li>
+
+  <li><a href="https://docs.hyperproof.io/en/com-release-notes/rn-2025-oct-09" target="_blank" rel="noopener noreferrer">Release notes example</a></li> 
 </ul>
 
 
