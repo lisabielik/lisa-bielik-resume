@@ -7,6 +7,14 @@ aliases = ["technical-documentation"]
 
 I've created many different types of technical documentation over the years. Below are some samples, including some "one-off" guides. 
 
+**Help Center**
+
+- [Hyperproof](https://docs.hyperproof.io) - Built with Paligo (2023 - current)
+
+  >**Note**: The current version is built using Paligo. The original help center (2021 - 2023) was built with Markdown, Git, and Hugo.
+
+**Technical documentation samples**
+
 <ul>
   <li><a href="https://drive.google.com/file/d/0B0V60fOpLgWkNFFuNS1zSk40RDA/view?usp=sharing&resourcekey=0-ex7lF1UqTbHhb7RwLz9_CA" target="_blank" rel="noopener noreferrer">Traditional user guide</a></li>
 
