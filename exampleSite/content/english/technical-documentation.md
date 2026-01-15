@@ -22,10 +22,10 @@ I've created many different types of technical documentation over the years. Bel
   >**Note**: Built with Markdown, Git (2016 - 2020). Since I originally created the help center, it's been transferred to Zendesk. However, many of the articles I wrote, as well as other elements I implemented on the site, remains the same.
 
 <ul>
-  <li><a href="https://help.turningtechnologies.com/" target="_blank" rel="noopener noreferrer">ATurning Technologies/Echo360 Help Center</a></li></li>
+  <li><a href="https://help.turningtechnologies.com/" target="_blank" rel="noopener noreferrer">Turning Technologies/Echo360 Help Center</a></li></li>
 </ul>
 
-  >**Note**: Built with Madcap Flare (2011 - 2015). This help center has changed drastically over the last 10 years. Echo is now the parent company of Turning Technologies.
+  >**Note**: Built with Madcap Flare (2011 - 2015). This help center has changed drastically over the last 10 years. Echo360 is now the parent company of Turning Technologies.
 
 **Technical documentation samples**
 
