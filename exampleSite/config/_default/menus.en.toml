@@ -22,10 +22,3 @@
   identifier = "technical-documentation"
   url = "/technical-documentation/"
   parent = "portfolio"  
-
-  [[main]]
-  name = "Help centers"
-  weight = 420
-  identifier = "help-centers"
-  url = "/help-centers/"
-  parent = "portfolio"
