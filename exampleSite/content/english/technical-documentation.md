@@ -7,13 +7,25 @@ aliases = ["technical-documentation"]
 
 I've created many different types of technical documentation over the years. Below are some samples, including some "one-off" guides. 
 
-**Help Center**
+**Help Centers**
 
 <ul>
   <li><a href="https://docs.hyperproof.io" target="_blank" rel="noopener noreferrer">Hyperproof Help Center</a></li>
 </ul>
 
   >**Note**: The current version is built using Paligo. The original help center (2021 - 2023) was built with Markdown, Git, and Hugo.
+
+<ul>
+  <li><a href="https://help.adblockplus.org/hc/en-us" target="_blank" rel="noopener noreferrer">Adblock Plus Help Center</a></li>
+</ul>
+
+  >**Note**: Built with Markdown, Git (2016 - 2020). Since I originally created the help center, it's been transferred to Zendesk. However, many of the articles I wrote, as well as other elements I implemented on the site, remains the same.
+
+<ul>
+  <li><a href="https://help.turningtechnologies.com/" target="_blank" rel="noopener noreferrer">ATurning Technologies/Echo360 Help Center</a></li></li>
+</ul>
+
+  >**Note**: Built with Madcap Flare (2011 - 2015). This help center has changed drastically over the last 10 years. Echo is now the parent company of Turning Technologies.
 
 **Technical documentation samples**
 
