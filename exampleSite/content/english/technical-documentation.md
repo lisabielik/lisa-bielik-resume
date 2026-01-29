@@ -48,6 +48,10 @@ I've created many different types of technical documentation over the years. Bel
 
   <li><a href="https://docs.hyperproof.io/admin/en/audits-overview/creating-an-audit-and-importing-a-request-list" target="_blank" rel="noopener noreferrer">Standard operating procedure article three</a></li>
 
+  <li><a href="https://docs.hyperproof.io/admin/en/risk-register-overview/understanding-risk-health/example-risk-calculation" target="_blank" rel="noopener noreferrer">Risk calculation article with example graphics</a></li>
+
+  <li><a href="https://drive.google.com/file/d/1HTceztJKb-m5FfipkfAp9fj5uTKIhReL/view?usp=sharing" target="_blank" rel="noopener noreferrer">NIST workbook</a></li>
+
   <li><a href="https://docs.hyperproof.io/en/com-release-notes/rn-2025-oct-09" target="_blank" rel="noopener noreferrer">Release notes example</a></li> 
 
   <li><a href="https://hyperproof.io/resource/why-control-health-is-the-backbone-of-continuous-compliance/" target="_blank" rel="noopener noreferrer">Content marketing blog one</a></li>
