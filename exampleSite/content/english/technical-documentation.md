@@ -7,13 +7,21 @@ aliases = ["technical-documentation"]
 
 I've created many different types of technical documentation over the years. Below are some samples, including some "one-off" guides. 
 
-**Help Centers**
+**Help centers and developer portals**
+
+I have extensive experience building help centers and knowledge bases from scratch and scaling them to handle growing product complexity and user needs. This includes establishing content architecture and taxonomy, implementing self-service documentation platforms, and creating standardized templates and style guides. I've worked on initiatives that have reduced support ticket volume, improved customer satisfaction scores, and empowered users to find answers independently through intuitive navigation, robust search functionality, and comprehensive coverage of common use cases and troubleshooting scenarios.
 
 <ul>
   <li><a href="https://docs.hyperproof.io" target="_blank" rel="noopener noreferrer">Hyperproof Help Center</a></li>
 </ul>
 
   >**Note**: The current version is built using Paligo. The original help center (2021 - 2023) was built with Markdown, Git, and Hugo.
+
+<ul>
+  <li><a href="https://developer.hyperproof.app/" target="_blank" rel="noopener noreferrer">Hyperproof Developer Portal</a></li>
+</ul>
+
+  >**Note**: The current version is built using Redocly.
 
 <ul>
   <li><a href="https://help.adblockplus.org/hc/en-us" target="_blank" rel="noopener noreferrer">Adblock Plus Help Center</a></li>
