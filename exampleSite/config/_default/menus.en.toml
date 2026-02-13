@@ -13,7 +13,6 @@
   [[main]]
   name = "Portfolio"
   weight = 300
-  weight = 200
   identifier = "portfolio"
   url = "/portfolio/"
 
@@ -32,9 +31,6 @@
   name = "Awards"
   weight = 510
   identifier = "awards"
-  name = "Technical documentation"
-  weight = 210
-  identifier = "technical documentation"
   url = "/awards/"
   parent = "accomplishments"  
 
@@ -44,12 +40,10 @@
   identifier = "certifications"
   url = "/certifications/"
   parent = "accomplishments"
-  parent = "portfolio"  
 
   [[main]]
   name = "Contact"
   weight = 600
-  weight = 300
   identifier = "contact"
   url = "/contact/"
 
@@ -57,5 +51,4 @@
   name = "imprint"
   weight = 1
   identifier = "imprint"
-  url = "/imprint/"
   url = "/imprint/"
