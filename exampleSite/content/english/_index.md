@@ -1,25 +1,18 @@
 +++
-author = "Hugo Authors"
+author = "LB"
 +++
 
-<!--
-This file is left intentionally empty by default to be backwards compatible with the initial theme setup.
 
-Although the theme has advanced a little bit and it now allows to specify the content on the main page (even if the list of posts/articles is not intended).
-This can be:
-- with the list of posts/articles (default: `mainSections = ["post"]) or
-- without the list of posts/articles (by setting `mainSections = [""]`)
+# Hi, there!
 
-Markdown supported, ie:
+I'm so glad you're here.
 
-```
-# Welcome
+For nearly 15 years, I've been solving the same problem: how do you explain complex technology in a way that actually helps people?
 
-- Hugo :rocket:
-- Hugo theme :rocket:
+From help centers and API docs to SOPs and training videos, I work with SaaS, B2B, open source teams to transform complicated products into resources people can actually use. No fluff, no confusion—just clear answers when you need them. And no, AI won't stop me from using the em dash.
 
-Don't forget to check the README.md file!
-```
+**My approach**: clarity over cleverness, scalability over shortcuts, user needs over assumptions.
 
-Remember that you can also specify a section header for the posts below by configuring the `mainSectionsTitle` parameter in the front matter of this file.
--->
+Aside from technical writing, I enjoy tinkering with front-end web stuff like CSS and React, reading (I'm a HUGE horror and thriller buff!), gardening, and low-effort biking.
+
+I live in Northeast Ohio with my husband, son, golden retriever, pit bull, and cat!
