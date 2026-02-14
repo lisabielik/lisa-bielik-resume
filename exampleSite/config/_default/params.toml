@@ -3,9 +3,9 @@ title = "Lisa Bielik"
 author = "Lisa Bielik"
 #copyright = "2026"
 description = "SENIOR TECHNICAL WRITER | INFORMATION ARCHITECT"
-profilePicture = "lisab.png"
+profilePicture = "images/profile.jpg"
 keywords = ""
-favicon = "favicons"
+favicon = "favicons/favicon.ico"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
