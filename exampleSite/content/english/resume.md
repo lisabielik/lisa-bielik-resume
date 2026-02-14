@@ -6,9 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "LB"
 +++
 
-Click the boxes below to learn more about me and what I've done so far in my career. 
-
-Prefer a traditional resume? <a href="/images/LisaBielik2026Resume.pdf" download> Grab the PDF here</a>
+Click the boxes below to learn more about me and what I've done so far in my career.
 
 You can also check out my [LinkedIn profile](https://www.linkedin.com/in/lisabielik/). Be sure to connect with me!
 
