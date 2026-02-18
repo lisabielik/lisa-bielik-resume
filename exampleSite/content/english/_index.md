@@ -1,4 +1,8 @@
 +++
+title = "Lisa Bielik | Senior Technical Writer | Information Architect"
+description = "Website and professional portfolio of Lisa Bielik"
+date = "2019-02-28"
+aliases = ["about-us", "about-hugo", "contact"]
 author = "LB"
 +++
 
