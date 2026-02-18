@@ -14,7 +14,7 @@ enableRobotsTXT = true
 
 [params]
   description = "Lisa Bielik | Senior Technical Writer | Information Architect"
-  images = ["https://lisabielik.com/static/images/og-default.png"] 
+  images = ["/images/og-default.png"]
 
 # Syntax highlighting
 pygmentsUseClasses = true   
